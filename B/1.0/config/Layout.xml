@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<layout>
+  <subflow name="FIORANO.ESTUDIO.ROOT_FLOW" x="0" y="0">
+<<<<<<< HEAD
+    <service-instance name="chat1" x="148" y="87"/>
+=======
+    <service-instance name="chat1" x="414" y="96"/>
+>>>>>>> branch 'master' of https://github.com/shubhifiorano/test4
+  </subflow>
+  <shortcut-routes/>
+</layout>
